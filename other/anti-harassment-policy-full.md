@@ -1,7 +1,7 @@
 ## Anti-Harassment Policy
 _Machine Learning South Africa_ is dedicated to providing a harassment-free event experience for everyone [, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion [insert any other specific concerns here]]. We do not tolerate harassment of event participants in any form. [Sexual language and imagery is not appropriate for any event venue, including talks.] Event participants violating these rules may be sanctioned or expelled from the event [without a refund] at the discretion of the event organizers. Our anti-harassment policy can be found at:
 
-https://github.com/ml-sa/documents/blob/main/other/anti-harassment-policy-full.txt
+https://github.com/ml-sa/documents/blob/main/other/anti-harassment-policy-short.md
 
 Harassment includes, but is not limited to:
 
